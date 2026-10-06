@@ -234,4 +234,4 @@ This repository serves as the official landing page for Smartmontools. The softw
 **Get the most recent version of Smartmontools today!**
 
 ---
-**Last updated:** 2026-10-05 22:24:16 UTC
+**Last updated:** 2026-10-06 02:47:04 UTC
